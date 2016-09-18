@@ -5,7 +5,7 @@
 ## Possible Errors - 可能潜在的错误
 
 遵守这些规则将会 `预防` 可能潜在的错误。
-* `box-model`: [Beware of box model size - 小心使用盒模型](./rules.md)
+* `box-model`: [Beware of box model size - 小心使用盒模型](./beware-of-box-model-size.md)
 * `display-property-grouping`: [Require properties appropriate for display]()
 * `duplicate-properties`: [[Disallow duplicate properties]]
 * `empty-rules`: [[Disallow empty rules]]
