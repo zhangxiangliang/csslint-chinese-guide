@@ -34,9 +34,9 @@ This rule is aimed at eliminating unwanted box model sizing issues. As such, the
 1. `width` being used with `border`, `border-left`, `border-right`, `padding`, `padding-left`, or `padding-right`
 1. `height` being used with `border`, `border-top`, `border-bottom`, `padding`, `padding-top`, or `padding-bottom`
 
-If the `box-sizing` property is specified, then the rule does not emit any warnings for the above conditions as it assumes you know what you're doing.
+如果像上面所说对 `box-sizing` 属性进行设置后，`CSS Lint`将会假定你已经理解盒模型了，不会对该规则进行包装。
 
-The following patterns are considered warnings:
+像下面这样使用将会 `提示警告`：
 
 ```css
 
@@ -53,7 +53,7 @@ The following patterns are considered warnings:
 }
 ```
 
-The following patterns are considered okay and do not cause warnings:
+像下面这样使用则不会 `提示警告`：
 
 ```css
 /* width and border with box-sizing */
