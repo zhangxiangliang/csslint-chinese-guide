@@ -7,9 +7,9 @@
 遵守这些规则将会 `预防` 可能潜在的错误。
 * `box-model`: [Beware of box model size - 小心使用盒模型](./beware-of-box-model-size.md)
 * `display-property-grouping`: [Require properties appropriate for display - 正确使用 display 相关属性](./require-properties-appropriate-for-display.md)
-* `duplicate-properties`: [Disallow duplicate properties - 不允许属性重复](disallow-duplicate-properties.md)
-* `empty-rules`: [[Disallow empty rules]]
-* `known-properties`: [[Require use of known properties]]
+* `duplicate-properties`: [Disallow duplicate properties - 不允许属性重复](./disallow-duplicate-properties.md)
+* `empty-rules`: [Disallow empty rules - 不允许选择器的内容为空](./disallow-empty-rules.md)
+* `known-properties`: [Require use of known properties - 使用规范中定义的属性](./require-use-of-known-properties.md)
 
 ## Compatibility
 
