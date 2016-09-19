@@ -1,5 +1,5 @@
-# Disallow duplicate properties
-## 不允许属性重复
+# 不允许属性重复
+### Disallow duplicate properties
 
 对于 web 开发，在同一个选择器中使用了相同的属性两次，甚至是两次的值都不一样，无疑是个错误。例如：
 
@@ -26,12 +26,12 @@
 
 规则配置项: `duplicate-properties`
 
-This rule is intended to find errors of duplication in CSS code. It warns when:
+设置了该规则配置项的话，如果出现了 `重复属性值`，则会提示警报。规则如下：
 
-1. A property is included twice and contains the same value.
-1. A property is included twice and is separated by at least one other property.
+1. 一个属性出现 `两次` 且 `值相同`
+2. 一个属性出现 `两次` 且 `值不同`
 
-The following patterns are considered warnings:
+像下面这样使用将会 `提示警告`：
 
 ```css
 
@@ -49,7 +49,7 @@ The following patterns are considered warnings:
 }
 ```
 
-The following patterns are considered okay and do not cause a warning:
+像下面这样使用则不会 `提示警告`：
 
 ```css
 

@@ -1,4 +1,4 @@
-# Rules
+# 规则
 ## Parsing errors should be fixed - 语法错误必须被修改
 这条是最重要的规则，且在 `CSS Lint` 中不能被关闭。语法错误的原因可能是你少写了冒号、分号或者拼写错误。这将可能导致浏览器，丢弃这个属性或者丢弃这个选择器。
 
@@ -7,7 +7,7 @@
 遵守这些规则将会 `预防` 可能潜在的错误。
 * `box-model`: [Beware of box model size - 小心使用盒模型](./beware-of-box-model-size.md)
 * `display-property-grouping`: [Require properties appropriate for display - 正确使用 display 相关属性](./require-properties-appropriate-for-display.md)
-* `duplicate-properties`: [Disallow duplicate properties - 不允许属性重复]()
+* `duplicate-properties`: [Disallow duplicate properties - 不允许属性重复](disallow-duplicate-properties.md)
 * `empty-rules`: [[Disallow empty rules]]
 * `known-properties`: [[Require use of known properties]]
 

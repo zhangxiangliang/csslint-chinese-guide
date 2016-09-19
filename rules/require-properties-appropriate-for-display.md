@@ -1,5 +1,5 @@
-# Require properties appropriate for display
-## 正确使用 display 相关属性
+# 正确使用 display 相关属性
+### Require properties appropriate for display
 
 我们在使用 `CSS` 属性的时候，往往会忽略 `display` 属性值的作用。`display` 的作用下，有些属性会失去作用，这常常使我们会造成一些困惑。
 

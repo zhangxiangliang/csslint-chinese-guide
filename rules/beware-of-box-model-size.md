@@ -1,4 +1,5 @@
-# Beware of box model size - 小心使用盒模型
+# 小心使用盒模型
+### Beware of box model size
 
 盒模型是 `CSS` 中最容易造成错误的概念之一。每个元素都拥有自己的盒模型。从盒模型的内部往外看，第一部分叫做 `content`，第二部分叫做 `padding` 并且环绕着 `content`，第三部分叫做 `border` 并且环绕着 `padding`。它们之间的尺寸会相互影响，这也是容易造成困惑的部分。思考下面的例子：
 
