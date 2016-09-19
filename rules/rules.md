@@ -6,7 +6,7 @@
 
 遵守这些规则将会 `预防` 可能潜在的错误。
 * `box-model`: [Beware of box model size - 小心使用盒模型](./beware-of-box-model-size.md)
-* `display-property-grouping`: [Require properties appropriate for display]()
+* `display-property-grouping`: [Require properties appropriate for display - 正确使用 display 相关属性](./require-properties-appropriate-for-display.md)
 * `duplicate-properties`: [[Disallow duplicate properties]]
 * `empty-rules`: [[Disallow empty rules]]
 * `known-properties`: [[Require use of known properties]]
