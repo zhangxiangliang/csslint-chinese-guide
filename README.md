@@ -12,6 +12,7 @@
 有的时候可能需要使用一些其他的规则，或者想忽略掉一些 CSS Lint 的规则。通过阅读这些例子，你将会知道怎么处理这些情景。
 
 ## 命令行界面
+
 这篇指南将会告诉你如何在 命令行界面 中使用 CSS Lint。
 
 ## 工程 中使用
@@ -31,3 +32,13 @@
 * 主页 [完成]
 * 关于 [完成]
 * 规则 [翻译中]
+    * Possible Errors - 可能潜在的错误 [完成]
+    * Compatibility   - 兼容性 [翻译中]
+
+### 扩展阅读计划
+* [The CSS Box Model - CSS盒模型](http://css-tricks.com/2841-the-css-box-model/) [计划中]
+* [Understanding the Box Model - 理解盒模型](http://blog.simonwillison.net/post/58225400497/theboxmodel) [计划中]
+* [The IE5/IE6 Doubled Float Margin Bug - IE5/IE6 双倍 Margin 的 Bug](http://www.positioniseverything.net/explorer/doubled-margin.html) [计划中]
+* [Multiple Classes in IE - IE 中兼容多类选择器](http://www.ryanbrill.com/archives/multiple-classes-in-ie/) [计划中]
+* [IE and CSS Class Chaining - IE 与 CSS 链式选择器](http://iamtotti.com/blog/2010/02/ie-and-css-class-chaining/) [计划中]
+* [Multiple CSS Classes & A Little Known IE6 Hack - 多类选择器和 IE6 兼容黑魔法](http://www.oppenheim.com.au/2009/05/24/multiple-css-classes-a-little-known-ie6-hack/) [计划中]
