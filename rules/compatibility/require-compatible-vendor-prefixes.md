@@ -1,8 +1,7 @@
 # 添加厂商标识
 ### Require compatible vendor prefixes
 
-
-Experimental CSS properties are typically implemented using vendor prefixes until the final behavior has been established and agreed upon. Most CSS3 properties have vendor-prefixed equivalents for multiple vendors, including Firefox (`-moz`), Safari/Chrome (`-webkit`), Opera (`-o`), and Internet Explorer (`-ms`).  It's easy to forget to include the vendor prefixed version of a property when there are so many to keep track of.
+有的浏览器厂商会预先使用一些新的 `CSS` 属性，直到属性最终完成了才发布。很多的 `CSS3` 属性都应该加上厂商标识，包括 火狐浏览器 (`-moz`)，Safari/谷歌浏览器 (`-webkit`)，欧朋浏览器 (`-o`)，IE浏览器 (`-ms`)。 这么多的浏览器厂商，每个厂商都有各自不同的版本，我们很难去记住，哪些该加哪些不该加。
 
 需要添加厂商标识的属性：
 
