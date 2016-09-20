@@ -17,7 +17,7 @@
 遵守这些规则将会 `兼容` 更多的浏览器。(译者注：其实主要还是在针对IE6浏览器做兼容，如果不需要兼容IE6浏览器的话，规则配置项可以选择关闭)
 
 * `adjoining-classes`: [Disallow adjoining classes - 不允许使用多类选择器](./compatibility/disallow-adjoining-classes.md)
-* `box-sizing`: [[Disallow box-sizing]]
+* `box-sizing`: [Disallow box-sizing - 不允许使用 box-sizing 属性](./compatibility/disallow-box-sizing.md)
 * `compatible-vendor-prefixes`: [[Require compatible vendor prefixes]]
 * `gradients`: [[Require all gradient definitions]]
 * `text-indent`: [[Disallow negative text-indent]]
