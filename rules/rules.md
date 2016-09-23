@@ -21,7 +21,7 @@
 * `compatible-vendor-prefixes`: [Require compatible vendor prefixes - 添加厂商标识](./compatibility/require-compatible-vendor-prefixes.md)
 * `gradients`: [Require all gradient definitions - 渐变色相关属性需要写完整](./compatibility/require-all-gradient-definitions.md)
 * `text-indent`: [Disallow negative text-indent - 文本缩进实现隐藏效果时的小提示](./compatibility/disallow-negative-text-indent.md)
-* `vendor-prefix`: [Require standard property with vendor prefix]()
+* `vendor-prefix`: [Require standard property with vendor prefix](./compatibility/require-standard-property-with-vendor-prefix.md)
 * `fallback-colors`: [[Require fallback colors]]
 * `star-property-hack`: [[Disallow star hack]]
 * `underscore-property-hack`: [[Disallow underscore hack]]
