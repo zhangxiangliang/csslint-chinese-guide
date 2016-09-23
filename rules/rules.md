@@ -19,9 +19,9 @@
 * `adjoining-classes`: [Disallow adjoining classes - 不允许使用多类选择器](./compatibility/disallow-adjoining-classes.md)
 * `box-sizing`: [Disallow box-sizing - 不允许使用 box-sizing 属性](./compatibility/disallow-box-sizing.md)
 * `compatible-vendor-prefixes`: [Require compatible vendor prefixes - 添加厂商标识](./compatibility/require-compatible-vendor-prefixes.md)
-* `gradients`: [Require all gradient definitions - 渐变色相关属性需要写完整](./)
-* `text-indent`: [[Disallow negative text-indent]]
-* `vendor-prefix`: [[Require standard property with vendor prefix]]
+* `gradients`: [Require all gradient definitions - 渐变色相关属性需要写完整](./compatibility/require-all-gradient-definitions.md)
+* `text-indent`: [Disallow negative text-indent - 文本缩进实现隐藏效果时的小提示](./compatibility/disallow-negative-text-indent.md)
+* `vendor-prefix`: [Require standard property with vendor prefix]()
 * `fallback-colors`: [[Require fallback colors]]
 * `star-property-hack`: [[Disallow star hack]]
 * `underscore-property-hack`: [[Disallow underscore hack]]
